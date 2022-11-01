@@ -4,7 +4,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import pages.todoLy.*;
 import singletonSession.Session;
-import todoLy.*;
+
 
 public class TestBaseTodoLy {
     public MainPage mainPage=new MainPage();
