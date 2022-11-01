@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.juiceShop.TestSuite1" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-01T19:07:45" hostname="DESKTOP-IGNEEL" time="6.46">
+  <properties/>
+  <testcase name="Verify user can register" classname="cleanTest.juiceShop.TestSuite1" time="6.46"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 54583
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+nov. 01, 2022 4:07:48 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+nov. 01, 2022 4:07:49 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 106
+]]></system-err>
+</testsuite>
